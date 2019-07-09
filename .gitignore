@@ -1,0 +1,8 @@
+# webpack
+dist
+
+# npm
+node_modules
+
+# ide
+idea
